@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "bb72d6c0-3b5b-49b5-a4bf-5fdb3e93c6a9",
+		"_postman_id": "dcb12d63-20bd-4d3f-9d88-4bf557d3af80",
 		"name": "NOVA Security API Documentation",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_uid": "558568-bb72d6c0-3b5b-49b5-a4bf-5fdb3e93c6a9"
+		"_uid": "12972788-dcb12d63-20bd-4d3f-9d88-4bf557d3af80"
 	},
 	"item": [
 		{
@@ -11,22 +11,25 @@
 			"item": [
 				{
 					"name": "New Request",
-					"id": "20ebcfea-a3ce-4684-9bb2-d1971b8b0846",
+					"id": "15bbbdc6-c134-4721-9f59-cd2515dee61a",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
 					"request": {
 						"method": "GET",
-						"header": []
+						"header": [],
+						"url": {
+							"raw": ""
+						}
 					},
 					"response": []
 				}
 			],
-			"id": "0cb7bcd9-927b-408d-8b37-f4dd8a24a686"
+			"id": "75a3ee4f-cadd-4637-8484-0eb9d5e970a0"
 		},
 		{
 			"name": "New Request",
-			"id": "1fbd34ec-4fa7-4360-b5bc-4a8bbf27b028",
+			"id": "281d2b2b-b238-43db-8f44-406a16904ff4",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
