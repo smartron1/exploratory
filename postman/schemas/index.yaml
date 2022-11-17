@@ -1,6 +1,6 @@
 openapi: 3.0.3
 servers:
-  - url: https://api.postmanova.com
+  - url: https://api.postmanova.coma
   - url: https://api1.postmanova.coma
 
 info:
