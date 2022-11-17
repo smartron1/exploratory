@@ -5,11 +5,13 @@ id = 7ee6f61f-8d21-4bda-815a-7a9cbe5a79d6
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"558568-bb72d6c0-3b5b-49b5-a4bf-5fdb3e93c6a9","path":"NOVA Security API Documentation.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3

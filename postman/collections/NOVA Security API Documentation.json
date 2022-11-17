@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "bb72d6c0-3b5b-49b5-a4bf-5fdb3e93c6a9",
+		"name": "NOVA Security API Documentation",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "558568-bb72d6c0-3b5b-49b5-a4bf-5fdb3e93c6a9"
+	},
+	"item": [
+		{
+			"name": "admin/{admin Id}/users",
+			"item": [
+				{
+					"name": "New Request",
+					"id": "20ebcfea-a3ce-4684-9bb2-d1971b8b0846",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
+			"id": "0cb7bcd9-927b-408d-8b37-f4dd8a24a686"
+		},
+		{
+			"name": "New Request",
+			"id": "1fbd34ec-4fa7-4360-b5bc-4a8bbf27b028",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
