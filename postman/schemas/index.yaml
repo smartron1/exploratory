@@ -7,7 +7,7 @@ info:
   title: 'Sample API'
   description: |-
     Buy or rent spacecrafts
-    <img alt>
+    <img alt src=https://google.com>
 
 
 paths:
